@@ -11,7 +11,7 @@ A machine learning approach to decode visual stimuli from brain activity pattern
 - [Nada Salah, Computational Neuroscience Enthusiast](https://www.linkedin.com/in/nada-o-salah/)
 - [Salma Waleed, AI and Robotics](https://www.linkedin.com/in/swaleed3/)
 - Fatma Abd El Haseeb
-- Sama Ehab, our aspiring High schooler 🤩
+- Sama Ehab, Our Aspiring High Schooler 🤩
 
 ## Project Overview
 
